@@ -1,0 +1,1 @@
+execute at @a as @a if block ~ ~-1 ~ gold_block run kill @s
