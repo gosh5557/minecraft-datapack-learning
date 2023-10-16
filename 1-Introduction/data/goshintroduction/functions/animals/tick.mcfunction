@@ -1,1 +1,1 @@
-execute at @a as @a if block ~ ~-1 ~ gold_block run kill @s
+execute as @a at @s if block ~ ~-1 ~ air run say "aaaaaaaaaaaaaaaaaaaaa"
