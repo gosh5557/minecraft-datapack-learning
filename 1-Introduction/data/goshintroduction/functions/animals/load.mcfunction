@@ -1,1 +1,2 @@
-say Hello, world!
+#create scoreboard for carrot_on_a_stick statistic
+scoreboard objectives add gosh.animals_carrot_stick minecraft.used:minecraft.carrot_on_a_stick

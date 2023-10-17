@@ -1,5 +1,5 @@
-summon cow
-summon sheep
-summon pig
-summon goat
-summon llama
+summon cow ^ ^ ^3
+summon sheep ^ ^ ^4
+summon pig ^1 ^ ^3
+summon goat ^-1 ^ ^3
+summon llama ^1 ^ ^4
